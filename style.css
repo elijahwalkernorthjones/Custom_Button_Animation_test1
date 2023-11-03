@@ -1,0 +1,6 @@
+.smallCircle {
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+    background-color: rgb(83, 83, 221);
+}
